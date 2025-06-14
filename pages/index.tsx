@@ -11,7 +11,7 @@ export default function Home() {
         <div className={styles.grid}>
 
         <p className={styles.card}>
-          CONFIG1 has value: {process.env.CERC_TEST_WEBAPP_CONFIG1}
+          CONFIG1 has value: test-value
         </p>
 
         <p className={styles.card}>
