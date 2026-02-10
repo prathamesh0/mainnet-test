@@ -11,7 +11,7 @@ export default function Home() {
         <div className={styles.grid}>
 
         <p className={styles.card}>
-          CONFIG1 has value: test-value
+          CONFIG1 has value: test-value-1
         </p>
 
         <p className={styles.card}>
